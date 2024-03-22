@@ -1,0 +1,55 @@
+body
+{
+background-color: #001f3f;
+}
+.login-form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+}
+label
+{
+    margin-left: 4px;
+    color: #fefefe;
+}
+.info
+{
+    border-radius: 5px;
+    border-color: #153e7e;
+    margin-left:5% ;
+    margin-bottom:2% ;
+    width: 250px;
+    height: 25px;
+}
+h1
+{  
+    color: white;
+    text-align: center;
+    text-shadow: #000000;
+}
+.submit{
+    border: none;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: 	#08295c;
+  color: #fff;
+  border-radius: 3px;
+}
+.col{
+    color: white;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+.coloum{
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+}
+form{
+
+}
